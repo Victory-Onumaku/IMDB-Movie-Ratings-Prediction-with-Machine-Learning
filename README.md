@@ -8,34 +8,34 @@
 # 1. Defined the Problem:
   We clearly defined the problem we want to solve. In this case, it's predicting IMDB ratings. <br>
 
-# Gathered Data:
+# 2. Gathered Data:
   we collected relevant data for this project. This could include information about movies, director name, duration and other features that might influence IMDB ratings. <br>
 
-# Explored and Understood the Data:
-  Performed exploratory data analysis (EDA) to understand the characteristics of the dataset. Checked for missing values, outliers, and patterns in the data. <br>
+# 3. Explored and Understood the Data:
+     Performed exploratory data analysis (EDA) to understand the characteristics of the dataset. Checked for missing values, outliers, and patterns in the data. <br>
 
-# Data Visualization:
-  Used seaborn and matplotlib for visualization of the data.
+# 4. Data Visualization:
+     Used seaborn and matplotlib for visualization of the data.
 
-# Preprocessed the Data:
-Handled missing values, encode categorical variables, scale numerical features, and perform any necessary data transformations to prepare the data for machine learning models. <br>
+# 5. Preprocessed the Data:
+     Handled missing values, encode categorical variables, scale numerical features, and perform any necessary data transformations to prepare the data for machine learning models. <br>
 
-# Feature Engineering:
-Created new features to improve the performance of the machine learning model. <br>
+# 6. Feature Engineering:
+     Created new features to improve the performance of the machine learning model. <br>
 
-# Splitted the Data:
-Divided the dataset into training and testing sets. The training set is used to train the model, and the testing set is used to evaluate its performance. <br>
+# 7. Splitted the Data:
+     Divided the dataset into training and testing sets. The training set is used to train the model, and the testing set is used to evaluate its performance. <br>
 
-# Selected a Model:
-Choosed a machine learning algorithm suitable for regression tasks. Common choices include linear regression, decision trees, random forests, or gradient boosting algorithms. <br>
+# 8. Selected a Model:
+     Choosed a machine learning algorithm suitable for regression tasks. Common choices include linear regression, decision trees, random forests, or gradient boosting algorithms. <br>
 
-# Trained the Model:
-Use the training data to train the selected model. The model learns the patterns in the data to make predictions.
+# 9. Trained the Model:
+     Use the training data to train the selected model. The model learns the patterns in the data to make predictions.
 
-# Tune Hyperparameters:
-Optimized the model by tuning hyperparameters. This involves adjusting parameters that are not learned during training to improve performance. <br>
+# 10. Tune Hyperparameters:
+    Optimized the model by tuning hyperparameters. This involves adjusting parameters that are not learned during training to improve performance. <br>
 
-# Evaluate the Model:
-Use the testing set to evaluate the model's performance. Common evaluation metrics for regression tasks include Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared.
+# 11. Evaluate the Model:
+      Use the testing set to evaluate the model's performance. Common evaluation metrics for regression tasks include Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared.
   
   
