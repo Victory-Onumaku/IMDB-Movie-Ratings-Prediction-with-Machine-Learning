@@ -1,3 +1,3 @@
 # IMDB-Movie-Ratings-Prediction-with-Machine-Learning
-![](![![imdb-what-to-watch-d3c2befe37d04ac5b2e22696464a13eb](https://github.com/Victory-Onumaku/IMDB-Movie-Ratings-Prediction-with-Machine-Learning/assets/91481737/06905079-079c-4323-959c-272ed48e7b8f)
+(![![imdb-what-to-watch-d3c2befe37d04ac5b2e22696464a13eb](https://github.com/Victory-Onumaku/IMDB-Movie-Ratings-Prediction-with-Machine-Learning/assets/91481737/06905079-079c-4323-959c-272ed48e7b8f)
 ]
